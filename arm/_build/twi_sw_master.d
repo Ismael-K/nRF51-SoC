@@ -1,0 +1,15 @@
+.\_build\twi_sw_master.o: ..\twi_sw_master.c
+.\_build\twi_sw_master.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\twi_sw_master.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\twi_sw_master.o: ..\..\..\..\..\..\Include\twi_master.h
+.\_build\twi_sw_master.o: ..\..\..\..\..\..\Include\nrf_delay.h
+.\_build\twi_sw_master.o: ..\..\..\..\..\..\Include\nrf.h
+.\_build\twi_sw_master.o: ..\..\..\..\..\..\Include\nrf51.h
+.\_build\twi_sw_master.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0.h
+.\_build\twi_sw_master.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h
+.\_build\twi_sw_master.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h
+.\_build\twi_sw_master.o: ..\..\..\..\..\..\Include\system_nrf51.h
+.\_build\twi_sw_master.o: ..\..\..\..\..\..\Include\nrf51_bitfields.h
+.\_build\twi_sw_master.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0.h
+.\_build\twi_sw_master.o: ..\..\..\..\..\..\Include\nrf51_deprecated.h
+.\_build\twi_sw_master.o: ..\..\..\..\..\..\Include\compiler_abstraction.h
